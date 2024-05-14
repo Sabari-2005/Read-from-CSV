@@ -19,6 +19,7 @@ Check your system's maximum column with the pd.options.display.max_column statem
 Increase the maximum number of rows to display the entire DataFrame.
 
 ## PROGRAM:
+```
 To write a python program for reading content from a CSV file.
 Developed by: R.Sabarinath
 Register Number: 212223100048
@@ -30,6 +31,7 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ## OUTPUT:
 ![12](https://github.com/Sabari-2005/Read-from-CSV/assets/139338709/bb4ceb12-61b3-4a75-bea9-6bb4aec31cfe)
+```
 
 
 ## RESULT:
